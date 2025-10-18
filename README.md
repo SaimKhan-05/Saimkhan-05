@@ -51,6 +51,9 @@
 📈 Built an interactive Power BI dashboard showing KPIs, regional sales, and profit trends.  
 🔗 [View Repository](#)  https://github.com/SaimKhan-05/Amazon-Sales-Dashborad
 
+ ### Excel Hospital Analysis
+ 📈 Built an interactive Excel dashboard showing KPIs, Hospital Rating, and Cost trends.  
+🔗 [View Repository](#) 
 
 ## 🎓 Certifications
 
