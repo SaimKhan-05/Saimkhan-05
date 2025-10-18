@@ -49,13 +49,8 @@
 
 ### 📉 Sales Dashboard in Power BI  
 📈 Built an interactive Power BI dashboard showing KPIs, regional sales, and profit trends.  
-🔗 [View Repository](#)  
+🔗 [View Repository](#)  https://github.com/SaimKhan-05/Amazon-Sales-Dashborad
 
-### 🗄️ SQL Business Case Study  
-💬 Solved real-world analytics questions using MySQL (joins, subqueries, and window functions).  
-🔗 [View Repository](#)  
-
----
 
 ## 🎓 Certifications
 
