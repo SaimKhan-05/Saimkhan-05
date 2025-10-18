@@ -45,7 +45,7 @@
 ### 🧩 Data Cleaning and Analysis with Python  
 📄 Used pandas, numpy, and matplotlib to analyze business data.  
 📊 Created visual insights and automated summary reports.  
-🔗 [View Repository](#)  
+🔗 [View Repository](#)  https://github.com/SaimKhan-05/Initial-Public-Offering-Analysis
 
 ### 📉 Sales Dashboard in Power BI  
 📈 Built an interactive Power BI dashboard showing KPIs, regional sales, and profit trends.  
