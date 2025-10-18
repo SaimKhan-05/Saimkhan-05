@@ -45,7 +45,7 @@
 ### 🧩 Data Cleaning and Analysis with Python  
 📄 Used pandas, numpy, and matplotlib to analyze business data.  
 📊 Created visual insights and automated summary reports.  
-🔗 [View Repository](#) https://colab.research.google.com/drive/1Xcs_inHzWSO4XNIMg2iJTRF11Bnygurc  
+🔗 [View Repository](#)  
 
 ### 📉 Sales Dashboard in Power BI  
 📈 Built an interactive Power BI dashboard showing KPIs, regional sales, and profit trends.  
@@ -53,7 +53,7 @@
 
  ### Excel Hospital Analysis
  📈 Built an interactive Excel dashboard showing KPIs, Hospital Rating, and Cost trends.  
-🔗 [View Repository](#) 
+🔗 [View Repository](#) https://github.com/SaimKhan-05/Hospitl-Patient-Analysis-
 
 ## 🎓 Certifications
 
