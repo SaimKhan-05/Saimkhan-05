@@ -42,6 +42,12 @@
 
 ## 📈 Featured Projects
 
+###  Credit Card Defaulter Prediction Analysis
+📄 Used  Excel Python(pandas, numpy and matplotlib), My Sql  and Power bi 
+📈  Built an interactive Power BI dashboard showing KPIs, gender wise defaulter, monthly payment and amount.
+📊 Created visual insights by and automated summary reports. 
+🔗 [View Repository](#) https://github.com/SaimKhan-05/Credit-Card-Defaulter-Prediction-Analysis
+
 ### 🧩 Data Cleaning and Analysis with Python  
 📄 Used pandas, numpy, and matplotlib to analyze business data.  
 📊 Created visual insights and automated summary reports.  
