@@ -15,7 +15,7 @@
 🌱 Currently improving my knowledge in **Generative AI for Data Analytics**.  
 💬 Ask me about anything related to **data analytics, dashboards, or SQL queries**!  
 📍 Based in **Delhi, India**  
-📫 Reach me at **abdulsaimkhan05email.com**
+📫 Reach me at **abdulsaimkhan05gmail.com**
 
 ---
 
